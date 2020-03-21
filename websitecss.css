@@ -1,0 +1,105 @@
+
+/* fontsquirrel.com for new fonts */
+
+.center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 25%;
+	height: 50%
+}
+
+h1
+{
+	font-family: 'Raleway', Verdana, Georgia, Times New Roman, sans-serif;
+}
+
+P
+{
+	font-family: Times New Roman
+}
+
+h1
+{
+	text-align: center;
+}
+
+body
+{
+	background-image: url("background.jpg");
+	background-attachment: fixed;
+	background-position: middle;
+	background-repeat: no-repeat;
+}
+
+/* Navigation Tabs at top */
+
+nav
+{
+	text-align: center;
+	
+}
+nav ul
+{
+	list-style-type: none;
+	display: inline-block;
+	padding: 0;	
+}
+nav li
+{
+	display: inline;
+	float: left;
+	
+}
+nav a
+{
+	display: inline-block;
+	color: white;
+	text-align: left;
+	padding: 17px 80px;
+	text-decoration: none;
+}
+
+nav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+/* Article Formatting */
+.outer {
+      
+      border-radius: 5px;
+      width: 450px;
+      padding: 10px;
+      margin-bottom: 40px;
+    }
+
+
+
+/* Social Media Buttons */
+
+.social-icons {
+  text-align: center;
+  }  
+
+.social-icons li {
+  display:inline-block;
+  list-style-type:none;
+  }
+
+.social-icons li a {
+  border-bottom: none;
+  }
+
+.social-icons li img {
+  Width:40px;
+  height:40px;
+}
+
+/* Footer */
+.centerfooter {
+  margin: auto;
+  width: 60%;
+  padding: 10px;
+  Text-align:center;
+}

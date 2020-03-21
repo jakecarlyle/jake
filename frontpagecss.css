@@ -1,0 +1,54 @@
+body, html {
+    height: 100%;
+}
+.background-image {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("IMG_1504.jpg");
+
+  height: 100%;
+
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+.background-text {
+  text-align: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  Font-size: 20px;
+  color: white;
+  Text-decoration: none
+
+
+} 
+.background-text button {
+	border: none;
+ 	outline: 0;
+ 	display:inline-block; 
+	background-color: grey;
+	padding: 20px 45px;
+	text-align: center; 
+	cursor: pointer; 
+}
+
+
+a:link, a:visited {
+  background-color: grey;
+  color: white;
+  padding: 0px 0px;
+  text-align: center;
+  text-decoration: none;
+  display: block;
+}
+
+
+h1
+{
+	font-family: 'Raleway', Verdana, Georgia, Times New Roman, sans-serif;
+}
+
+P
+{
+	font-family: 'Raleway', Times New Roman
