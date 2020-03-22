@@ -31,7 +31,7 @@ body, html {
 	padding: 20px 45px;
 	text-align: center; 
 	cursor: pointer; 
-	font-family: 'Oxygen', sans-serif;
+	font-family: Oxygen, sans-serif;
 }
 
 
@@ -47,9 +47,9 @@ a:link, a:visited {
 
 h1
 {
-	font-family: 'Courgette', Verdana, Georgia, Times New Roman, sans-serif;
+	font-family: Courgette, Verdana, Georgia, Times New Roman, sans-serif;
 }
 
 P
 {
-	font-family: 'Courgette', Times New Roman
+	font-family: Courgette, Times New Roman
