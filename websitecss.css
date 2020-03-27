@@ -8,7 +8,7 @@
 
 h1
 {
-	font-family: Raleway, Verdana, Georgia, Times New Roman, sans-serif;
+	font-family: 'Raleway', Verdana, Georgia, Times New Roman, sans-serif;
 }
 
 P
@@ -41,7 +41,7 @@ nav ul
 	list-style-type: none;
 	display: inline-block;
 	padding: 0;
-	font-family: Raleway;
+	font-family: 'Raleway'
 }
 nav li
 {
@@ -56,7 +56,7 @@ nav a
 	text-align: left;
 	padding: 17px 80px;
 	text-decoration: none;
-	font-family: Raleway;
+	font-family: 'Raleway'
 }
 
 nav a:hover {
