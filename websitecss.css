@@ -1,6 +1,3 @@
-
-/* fontsquirrel.com for new fonts */
-
 .center {
 	display: block;
 	margin-left: auto;
@@ -11,7 +8,7 @@
 
 h1
 {
-	font-family: 'Raleway', Verdana, Georgia, Times New Roman, sans-serif;
+	font-family: Raleway, Verdana, Georgia, Times New Roman, sans-serif;
 }
 
 P
