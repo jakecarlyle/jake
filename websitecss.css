@@ -65,7 +65,7 @@ nav a:hover {
 	font-family: Raleway, Arial; 
 }
 
-/* Article Formatting */
+/* Text Box Formatting */
 .outer {
       
       border-radius: 5px;
@@ -74,7 +74,21 @@ nav a:hover {
       margin-bottom: 40px;
     }
 
+.valuesquote {
+	text-align:justify;
+	border: none;
+	margin: 0 auto;
+	margin-left: auto;
+	margin-right: auto;
+	width: 37%
+}
 
+.values {
+	text-align: justify;
+	border: none;
+	width: 50%;
+	
+}
 
 /* Social Media Buttons */
 
