@@ -56,12 +56,13 @@ nav a
 	text-align: left;
 	padding: 17px 80px;
 	text-decoration: none;
-	font-family: Raleway, Arial; 
+	
 }
 
 nav a:hover {
-  background-color: #ddd;
-  color: black;
+	background-color: #ddd;
+	color: black;
+	font-family: Raleway, Arial; 
 }
 
 /* Article Formatting */
