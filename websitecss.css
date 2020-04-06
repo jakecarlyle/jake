@@ -28,6 +28,7 @@ body
 	background-position: middle;
 	background-repeat: no-repeat;
 	background-size: contain;
+	position: relative;
 }
 
 /* Navigation Tabs at top */
