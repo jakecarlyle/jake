@@ -27,6 +27,7 @@ body
 	background-attachment: scroll;
 	background-position: middle;
 	background-repeat: no-repeat;
+	background-size: cover;
 }
 
 /* Navigation Tabs at top */
