@@ -54,7 +54,7 @@ nav a
 	display: inline-block;
 	color: white;
 	text-align: left;
-	padding: 17px 80px;
+	padding: 17px 40px;
 	text-decoration: none;
 	
 }
@@ -106,14 +106,14 @@ nav a:hover {
   }
 
 .social-icons li img {
-  Width:40px;
-  height:40px;
+  Width:35px;
+  height:35px;
 }
 
 /* Footer */
 .centerfooter {
   margin: auto;
-  width: 60%;
+  width: 100%;
   padding: 10px;
   Text-align:center;
 }
