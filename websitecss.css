@@ -32,7 +32,7 @@ body
 	background-attachment: fixed;
 	background-position: middle;
 	background-repeat: no-repeat;
-	background-size: contain;
+	background-size: cover;
 	position: relative;
 	min-height: 100%;
 	min-width: 100%;
