@@ -24,7 +24,7 @@ h1
 body
 {
 	background-image: url("Background.jpg");
-	background-attachment: scroll;
+	background-attachment: fixed;
 	background-position: middle;
 	background-repeat: no-repeat;
 	background-size: contain;
