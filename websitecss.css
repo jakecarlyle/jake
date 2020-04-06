@@ -100,6 +100,18 @@ nav a:hover {
 	
 }
 
+.downloadbutton {
+	border: none;
+	text-decoration: none;
+ 	display:inline-block; 
+	background-color: grey;
+	padding: 20px 45px;
+	margin; 4px 2px
+	text-align: center; 
+	cursor: pointer; 
+	font-family: 'Raleway', sans-serif;
+}
+
 /* Social Media Buttons */
 
 .social-icons {
