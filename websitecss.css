@@ -6,19 +6,20 @@
 	height: 50%
 }
 
-h1
-{
+h1{
 	font-family: Raleway, Verdana, Georgia, Times New Roman, sans-serif;
 }
 
-P
-{
-	font-family: Times New Roman
+p{
+	font-family: Raleway, Times New Roman;
 }
 
-h1
-{
+h1{
 	text-align: center;
+}
+
+li{
+	font-family: Raleway, Times New Roman;
 }
 
 html{
