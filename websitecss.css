@@ -102,8 +102,12 @@ nav a:hover {
 	text-align: justify;
 	border: none;
 	width: 50%;
-	
 }
+
+.blog {
+	text-align: justify;
+	border: none;
+	width: 75%;
 
 .downloadbutton {
 	border: none;
