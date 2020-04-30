@@ -15,7 +15,7 @@ h2{
 }
 
 p{
-	font-family: Raleway, Times New Roman;
+	font-family: Raleway, sans-serif;, Times New Roman;
 }
 
 h1{
@@ -107,7 +107,7 @@ nav a:hover {
 .blog {
 	text-align: justify;
 	border: none;
-	width: 50%;
+	width: 30%;
 }
 .downloadbutton {
 	border: none;
