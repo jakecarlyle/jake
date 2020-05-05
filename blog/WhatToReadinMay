@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<meta charset="utf-8" />
+<head>
+<title> Maastricht, Netherlands: Home Sweet Home or Your Next Day Trip </title>
+<meta name="description" content="Whether you want to stay for a day, stay for a weekend, or stay for a few years, this is your definitive guide to hit the ground running in Maastricht.">
+<meta name="robots" content="index, follow">
+<link rel="stylesheet" href="websitecss.css" />
+<link href="https://fonts.googleapis.com/css?family=Raleway&display=swap" rel="stylesheet">
+<link rel="icon" type="image/png" href="favicon-32x32.png" sizes="32x32" />
+<link rel="icon" type="image/png" href="favicon-16x16.png" sizes="16x16" />
+<script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=5ea542ac81693d0012e589cd&product=inline-share-buttons" async="async"></script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-161744728-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-161744728-1');
+</script>	
+</head>
+
+
+<!--Start of what appears on the website -->
+
+
+<header>
+<nav>
+		<ul> 	
+			<li><a href="Home.html">Home</a>
+			<li><a href="AboutMe.html">About Me</a>
+			<li><a href="Resume.html">Résumé</a>
+			<li><a href="Work.html">Work</a>
+			<li><a href="Blog.html">Blog</a>
+			<li><a href="ContactMe.html">Contact</a>
+		</ul>
+	</nav>
+			
+	<img src="PersonalLogo.jpg" alt="Jake Carlyle" class="center" width="250" height="175">
+
+
+</header>
+<body>
