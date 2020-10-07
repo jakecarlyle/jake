@@ -160,8 +160,8 @@ nav a:hover {
 }
 
 .column {
-  float: left;
-  width: 33%;
+  float: center;
+  width: 100%;
 }
 
 /* The Modal (background) */
