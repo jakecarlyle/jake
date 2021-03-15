@@ -35,7 +35,7 @@ html{
 
 body
 {
-	background-image: url("Background.jpg");
+	background-color: #ffffff;
 	background-attachment: fixed;
 	background-position: middle;
 	background-repeat: no-repeat;
